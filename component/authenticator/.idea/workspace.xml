@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b0219a8-1b45-43d2-9be5-56146c53ee47" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/wso2/carbon/identity/authenticator/duo/DuoAuthenticator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wso2/carbon/identity/authenticator/duo/DuoAuthenticator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/wso2/carbon/identity/authenticator/duo/DuoAuthenticatorConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wso2/carbon/identity/authenticator/duo/DuoAuthenticatorConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../feature/feature.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../feature/feature.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../feature/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../feature/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lhZ7ykTQJKKtP1H5GZfoACoLky" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Remote" nameIsGenerated="true">
+      <module name="org.wso2.carbon.extension.identity.authenticator.duo.connector" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b0219a8-1b45-43d2-9be5-56146c53ee47" name="Default Changelist" comment="" />
+      <created>1608051120645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608051120645</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608051779273">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/797.-1080.1920.1080/-1123.-1080.1920.1080@0.0.1440.900" timestamp="1608051779273" />
+    <state width="1398" height="130" key="GridCell.Tab.0.bottom" timestamp="1608442701621">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="130" key="GridCell.Tab.0.bottom/0.0.1440.900/797.-1057.1920.1057/-1123.-1057.1920.1057@0.0.1440.900" timestamp="1608052279052" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/797.-1080.1920.1080/-1123.-1080.1920.1080@0.0.1440.900" timestamp="1608051780178" />
+    <state width="1398" height="130" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1608442701621" />
+    <state width="1398" height="130" key="GridCell.Tab.0.center" timestamp="1608442701619">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="130" key="GridCell.Tab.0.center/0.0.1440.900/797.-1057.1920.1057/-1123.-1057.1920.1057@0.0.1440.900" timestamp="1608052279049" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900/797.-1080.1920.1080/-1123.-1080.1920.1080@0.0.1440.900" timestamp="1608051780176" />
+    <state width="1398" height="130" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1608442701619" />
+    <state width="1398" height="130" key="GridCell.Tab.0.left" timestamp="1608442701618">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="130" key="GridCell.Tab.0.left/0.0.1440.900/797.-1057.1920.1057/-1123.-1057.1920.1057@0.0.1440.900" timestamp="1608052279046" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900/797.-1080.1920.1080/-1123.-1080.1920.1080@0.0.1440.900" timestamp="1608051780175" />
+    <state width="1398" height="130" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1608442701618" />
+    <state width="1398" height="130" key="GridCell.Tab.0.right" timestamp="1608442701620">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="130" key="GridCell.Tab.0.right/0.0.1440.900/797.-1057.1920.1057/-1123.-1057.1920.1057@0.0.1440.900" timestamp="1608052279051" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900/797.-1080.1920.1080/-1123.-1080.1920.1080@0.0.1440.900" timestamp="1608051780177" />
+    <state width="1398" height="130" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1608442701620" />
+    <state width="1398" height="130" key="GridCell.Tab.1.bottom" timestamp="1608442701624">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="130" key="GridCell.Tab.1.bottom/0.0.1440.900/797.-1057.1920.1057/-1123.-1057.1920.1057@0.0.1440.900" timestamp="1608052278920" />
+    <state width="1398" height="130" key="GridCell.Tab.1.bottom/0.0.1440.900/797.-1080.1920.1080/-1123.-1080.1920.1080@0.0.1440.900" timestamp="1608052460585" />
+    <state width="1398" height="130" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1608442701624" />
+    <state width="1398" height="130" key="GridCell.Tab.1.center" timestamp="1608442701623">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="130" key="GridCell.Tab.1.center/0.0.1440.900/797.-1057.1920.1057/-1123.-1057.1920.1057@0.0.1440.900" timestamp="1608052278918" />
+    <state width="1398" height="130" key="GridCell.Tab.1.center/0.0.1440.900/797.-1080.1920.1080/-1123.-1080.1920.1080@0.0.1440.900" timestamp="1608052460583" />
+    <state width="1398" height="130" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1608442701623" />
+    <state width="1398" height="130" key="GridCell.Tab.1.left" timestamp="1608442701622">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="130" key="GridCell.Tab.1.left/0.0.1440.900/797.-1057.1920.1057/-1123.-1057.1920.1057@0.0.1440.900" timestamp="1608052278917" />
+    <state width="1398" height="130" key="GridCell.Tab.1.left/0.0.1440.900/797.-1080.1920.1080/-1123.-1080.1920.1080@0.0.1440.900" timestamp="1608052460582" />
+    <state width="1398" height="130" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1608442701622" />
+    <state width="1398" height="130" key="GridCell.Tab.1.right" timestamp="1608442701624">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1398" height="130" key="GridCell.Tab.1.right/0.0.1440.900/797.-1057.1920.1057/-1123.-1057.1920.1057@0.0.1440.900" timestamp="1608052278919" />
+    <state width="1398" height="130" key="GridCell.Tab.1.right/0.0.1440.900/797.-1080.1920.1080/-1123.-1080.1920.1080@0.0.1440.900" timestamp="1608052460585" />
+    <state width="1398" height="130" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1608442701624" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1608535293492">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/-1280.-1080.1920.1080/0.0.1440.900/640.-1080.1920.1080@0.0.1440.900" timestamp="1608535293492" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/wso2/carbon/identity/authenticator/duo/DuoAuthenticator.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/wso2/carbon/identity/authenticator/duo/DuoAuthenticator.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/wso2/carbon/identity/authenticator/duo/DuoAuthenticator.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/wso2/carbon/identity/authenticator/duo/DuoAuthenticator.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
